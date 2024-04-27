@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AppointDoc
 
 This is a professional-grade MERN (MongoDB, Express, React, Node.js) stack web application for booking doctor appointments. Patients can browse through a list of doctors and their availability and book an appointment with their preferred doctor. Doctors can view their schedule, manage their availability, and approve/cancel appointments.
@@ -135,3 +136,6 @@ To set up BloodLife locally, follow these steps:
 ## Live Link
 
 The live project: [AppointDoc](https://appoint-doc.vercel.app/login)
+=======
+# Doctor_Appointment
+>>>>>>> ca6df9456f6ee568defa2e1e3c455ec30789b3c1
